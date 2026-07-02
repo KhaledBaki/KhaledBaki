@@ -53,14 +53,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=KhaledBaki&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=36FEAD&icon_color=36FEAD&text_color=EAFEF7" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=KhaledBaki&layout=compact&hide_border=true&bg_color=00000000&title_color=36FEAD&text_color=EAFEF7" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=KhaledBaki&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=000000FF&title_color=36FEAD&icon_color=36FEAD&text_color=EAFEF7" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=KhaledBaki&layout=compact&hide_border=true&bg_color=000000FF&title_color=36FEAD&text_color=EAFEF7" />
 </p>
 
 ### 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KhaledBaki&theme=transparent&hide_border=true&ring=36FEAD&currStreakNum=36FEAD&fire=36FEAD&currStreakLabel=36FEAD&sideNums=EAFEF7&sideLabels=EAFEF7&dates=9ACFC0" />
+  <img src="https://streak-stats.demolab.com?user=KhaledBaki&background=000000&hide_border=true&ring=36FEAD&currStreakNum=36FEAD&fire=36FEAD&currStreakLabel=36FEAD&sideNums=EAFEF7&sideLabels=EAFEF7&dates=9ACFC0" />
 </p>
 
 ---
