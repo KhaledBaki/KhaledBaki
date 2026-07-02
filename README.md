@@ -1,12 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,30:0d1b2a,60:1b4965,100:36bcf7&height=220&section=header&text=KHALED%20BAKI&fontSize=55&fontColor=36f2f7&animation=twinkling&fontAlignY=35&desc=COMPUTER%20ENGINEERING%20STUDENT%20%7C%20SOFTWARE%20DEVELOPER&descAlignY=58&descSize=16&descColor=8fd7ff" />
+<p align="center">
+  <img src="KisslandBanner.png" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=36F2F7&background=00000000&center=true&vCenter=true&width=650&lines=HI%2C+I'M+KHALED;COMPUTER+ENGINEERING+STUDENT;BUILDING+SOFTWARE+%26+MUSIC+TECH;NOW+PLAYING%3A+KISS+LAND" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=100&color=36FEAD&background=000000FF&center=true&vCenter=true&width=850&lines=HI%2C+I'M+KHALED;COMPUTER+ENGINEERING+STUDENT;BUILDING+SOFTWARE+OR+LISTENING+TO+MUSIC;" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/KDEDjuMgk8hhsh3gsy/giphy.gif" width="100%" style="object-fit: cover; height: 220px;" />
 </p>
+
 ### 👨‍💻 About Me
 
 - 🎓 Computer Engineering student at the **University of Ottawa**
