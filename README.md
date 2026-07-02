@@ -50,30 +50,17 @@
 
 ---
 
-### 🚀 Current Focus
-
-```text
-💻 Practicing Data Structures & Algorithms (ITI 1121)
-🎧 Building AudioAlchemy — React frontend + Spring Boot backend for AI music generation
-📱 Android app development (SEG2105 labs)
-🗄️ Database design with SQL / SQLite
-```
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KhaledBaki&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=36FEAD&icon_color=36FEAD&text_color=EAFEF7" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBaki&layout=compact&hide_border=true&bg_color=000000&title_color=36FEAD&text_color=EAFEF7" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KhaledBaki&show_icons=true&theme=github_dark_blue&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBaki&layout=compact&theme=github_dark_blue&hide_border=true" />
 </p>
-
----
 
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KhaledBaki&theme=oceanic&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KhaledBaki&theme=matrix&no-frame=true&no-bg=true&column=3&margin-w=10&margin-h=10" />
 </p>
 
 ---
@@ -89,10 +76,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" />
-</p>
 <p align="center">
   <img src="GengarGIF.gif" width="23%" />
   <img src="HaunterGIF.gif" width="23%" />
