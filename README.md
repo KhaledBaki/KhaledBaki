@@ -53,14 +53,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KhaledBaki&show_icons=true&theme=github_dark_blue&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBaki&layout=compact&theme=github_dark_blue&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=KhaledBaki&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=36FEAD&icon_color=36FEAD&text_color=EAFEF7" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=KhaledBaki&layout=compact&hide_border=true&bg_color=00000000&title_color=36FEAD&text_color=EAFEF7" />
 </p>
 
-### 🏆 Trophies
+### 🔥 Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KhaledBaki&theme=matrix&no-frame=true&no-bg=true&column=3&margin-w=10&margin-h=10" />
+  <img src="https://streak-stats.demolab.com?user=KhaledBaki&theme=transparent&hide_border=true&ring=36FEAD&currStreakNum=36FEAD&fire=36FEAD&currStreakLabel=36FEAD&sideNums=EAFEF7&sideLabels=EAFEF7&dates=9ACFC0" />
 </p>
 
 ---
