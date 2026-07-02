@@ -64,12 +64,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark_blue&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark_blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1B2A&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KhaledBaki&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=36FEAD&icon_color=36FEAD&text_color=EAFEF7" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBaki&layout=compact&hide_border=true&bg_color=000000&title_color=36FEAD&text_color=EAFEF7" />
 </p>
 
 ---
@@ -77,7 +73,7 @@
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=oceanic&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KhaledBaki&theme=oceanic&no-frame=true&row=1&column=7" />
 </p>
 
 ---
