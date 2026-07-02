@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=100&color=36FEAD&background=000000FF&center=true&vCenter=true&width=850&lines=HI%2C+I'M+KHALED;COMPUTER+ENGINEERING+STUDENT;BUILDING+SOFTWARE+OR+LISTENING+TO+MUSIC;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=100&color=36FEAD&background=000000FF&center=true&vCenter=true&width=850&lines=HI%2C+I'M+KHALED;COMPUTER+ENGINEERING+STUDENT+@+uOttawa;BUILDING+SOFTWARE+OR+LISTENING+TO+MUSIC;" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/khaled-abdul-baki" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0d1b2a.svg?style=for-the-badge&logo=linkedin&logoColor=36BCF7" />
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
+  <a href="https://leetcode.com/u/khaleddbaki/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-0d1b2a.svg?style=for-the-badge&logo=leetcode&logoColor=36BCF7" />
   </a>
 </p>
@@ -35,9 +35,20 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,python,git,github,react,spring,mysql,idea,vscode&theme=dark" />
-</p>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
