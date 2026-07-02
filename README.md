@@ -12,11 +12,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Engineering student at the **University of Ottawa**
-- 🎵 Building **AudioAlchemy** — a full-stack music generation app (React + Spring Boot)
-- 📚 Currently deep in **Data Structures & Algorithms**, sharpening my Java skills
-- 🌌 Blue is my color, Kiss Land is the soundtrack to most of my late-night coding sessions
-- ⚡ Turning ideas into working software, one late night at a time
+- 🎓 Computer Engineering student at the University of Ottawa
+- 🎵 I play the violin and the guitar(Acoustic & Electric), and I listen to all sorts of music 
+- 📖 I Spend most my time studying, and try to learn new code each day
 
 ---
 
@@ -97,5 +95,8 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36bcf7,50:1b4965,100:0d1b2a&height=100&section=footer" />
+<p align="center">
+  <img src="GengarGIF.gif" width="23%" />
+  <img src="HaunterGIF.gif" width="23%" />
+  <img src="MewtwoGIF.gif" width="23%" />
+</p>
