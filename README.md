@@ -76,7 +76,8 @@
 </p>
 
 ---
-<p align="center">
+### 👾 My Favourite Pokémon 👾
+<p align="center"> 
   <img src="GengarGIF.gif" width="23%" />
   <img src="HaunterGIF.gif" width="23%" />
   <img src="MewtwoGIF.gif" width="23%" />
