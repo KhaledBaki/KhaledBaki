@@ -80,6 +80,9 @@
 
 ---
 
+### 🏙️ View Count
+<img src="https://komarev.com/ghpvc/?username=KhaledBaki&style=for-the-badge&color=6A0DAD" width="300px" alt="Profile Views">
+
 ### 🐍 Contribution Snake
 
 <p align="center">
