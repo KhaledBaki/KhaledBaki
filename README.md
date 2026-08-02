@@ -22,10 +22,10 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/khaled-abdul-baki" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1b2a.svg?style=for-the-badge&logo=linkedin&logoColor=36BCF7" />
+    <img src="https://img.shields.io/badge/LinkedIn-0d1b2a.svg?style=for-the-badge&logo=linkedin&logoColor=36BCF7" width=200px />
   </a>
   <a href="https://leetcode.com/u/khaleddbaki/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-0d1b2a.svg?style=for-the-badge&logo=leetcode&logoColor=36BCF7" />
+    <img src="https://img.shields.io/badge/LeetCode-0d1b2a.svg?style=for-the-badge&logo=leetcode&logoColor=36BCF7" width=245px/>
   </a>
 </p>
 
