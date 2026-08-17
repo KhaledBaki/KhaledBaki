@@ -71,7 +71,7 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.shion.dev/api?username=KhaledBaki&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=000000FF&title_color=36FEAD&icon_color=36FEAD&text_color=EAFEF7" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=KhaledBaki&layout=compact&hide_border=true&bg_color=000000FF&title_color=36FEAD&text_color=EAFEF7" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=KhaledBaki&hide=g-code,jupyter%20notebook&layout=compact&hide_border=true&bg_color=000000FF&title_color=36FEAD&text_color=EAFEF7" />
 </p>
 
 ### 🔥 Streak
