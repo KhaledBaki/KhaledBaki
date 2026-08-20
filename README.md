@@ -80,7 +80,7 @@
 ### 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KhaledBaki&background=000000&hide_border=true&ring=36FEAD&currStreakNum=36FEAD&fire=36FEAD&currStreakLabel=36FEAD&sideNums=EAFEF7&sideLabels=EAFEF7&dates=9ACFC0" />
+  <img src=https://github-readme-streak-stats-eight.vercel.app?user=KhaledBaki&background=000000&hide_border=true&ring=36FEAD&currStreakNum=36FEAD&fire=36FEAD&currStreakLabel=36FEAD&sideNums=EAFEF7&sideLabels=EAFEF7&dates=9ACFC0" />
 </p>
 
 ---
