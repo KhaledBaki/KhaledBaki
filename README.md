@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=100&color=36FEAD&background=000000FF&center=true&vCenter=true&width=850&lines=HI%2C+I'M+KHALED;COMPUTER+ENGINEERING+STUDENT+@+uOttawa;BUILDING+SOFTWARE+OR+LISTENING+TO+MUSIC;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=100&color=36FEAD&background=000000FF&center=true&vCenter=true&width=850&lines=HI%2C+I'M+KHALED;COMPUTER+ENGINEERING+STUDENT+@+uOttawa;BUILDING+SOFTWARE+OR+LISTENING+TO+MUSIC;" alt="Typing SVG" width="100%" />
+</p>
+
+<p align="center">
+  <img src="KisslandGIF.gif" width="100%" style="object-fit: cover; height: 300px;" />
 </p>
 
 <p align="center">
