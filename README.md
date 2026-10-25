@@ -90,6 +90,13 @@
   <img src=https://github-readme-streak-stats-eight.vercel.app?user=KhaledBaki&background=000000&hide_border=true&ring=36FEAD&currStreakNum=36FEAD&fire=36FEAD&currStreakLabel=36FEAD&sideNums=EAFEF7&sideLabels=EAFEF7&dates=9ACFC0" />
 </p>
 
+### 🧩 LeetCode Stats
+
+<p align="center">
+  <img height="165" src="https://leetcard.jacoblin.cool/KhaleddBaki?theme=dark&font=baloo&ext=activity" />
+  <img height="165" src="https://leetcard.jacoblin.cool/KhaleddBaki?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
 ---
 
 ### 🏙️ View Count
